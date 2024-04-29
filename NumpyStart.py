@@ -13,7 +13,7 @@ def ShowInformation():
     print(np.show_config())
 
 def ContainsAZero(array: np.array):
-    return np.all(array)
+    return not np.all(array)
 
 
 if __name__ == '__main__':
@@ -22,3 +22,7 @@ if __name__ == '__main__':
     myFirstArray = np.array([1,2,3,4])
     print(f'Array: {myFirstArray}')
     print(f'Contains A Zero: {ContainsAZero(myFirstArray)}')
+
+    mySecondArray = np.array([0, 1, 2, 3])
+    print(f'Array: {mySecondArray}')
+    print(f'Contains A Zero: {ContainsAZero(mySecondArray)}')
