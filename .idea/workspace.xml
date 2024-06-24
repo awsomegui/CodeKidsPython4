@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="843c47cd-b2f3-4d63-b8d4-7ef0b7e35d20" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tofix/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OopRecap.py" beforeDir="false" afterPath="$PROJECT_DIR$/OopRecap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokemonWiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/PokemonWiki.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
     "Python.Game.executor": "Run",
     "Python.NumpyStart.executor": "Run",
     "Python.OopRecap.executor": "Run",
     "Python.PokemonWiki.executor": "Run",
+    "Python.functional.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -120,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716227731848</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <option name="closed" value="true" />
+      <created>1718044842561</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718044842561</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
